@@ -1,0 +1,2 @@
+# Shared Brain Cell uses only the Python standard library.
+# Install Python 3.x. No packages are needed.
